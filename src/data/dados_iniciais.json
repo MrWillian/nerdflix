@@ -1,0 +1,103 @@
+{
+  "categorias": [
+    {
+      "titulo": "Filmes",
+      "link": "https://www.youtube.com/c/omeleteve/featured",
+      "cor": "#4A53BD",
+      "link_extra": {
+        "text": "Em destaque: omeletv",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "KEANU REEVES NA COMÉDIA! BILL & TED 3: O QUE ESPERAR",
+          "url": "https://www.youtube.com/watch?v=tomCJ4s7uF8"
+        },
+        {
+          "titulo": "FILMES DA FASE 4 DA MARVEL | OmeleTV",
+          "url": "https://www.youtube.com/watch?v=3zv6UehizUo"
+        },
+        {
+          "titulo": "TODOS OS VINGADORES QUE VÃO SER SUBSTITUIDOS POR NOVOS HEROIS #NovosVingadores",
+          "url": "https://www.youtube.com/watch?v=f8VUNAii3yY"
+        },
+        {
+          "titulo": "STAR WARS: Do melhor ao pior filme",
+          "url": "https://www.youtube.com/watch?v=Jb92voEUMd0"
+        },
+        {
+          "titulo": "FILME DA VIÚVA NEGRA GANHA NOVO TRAILER OFICIAL",
+          "url": "https://www.youtube.com/watch?v=9QqEWBjGi3M"
+        },
+        {
+          "titulo": "MCU PARADO! MARVEL CONFIRMA ADIAMENTOS #FiqueEmCasa #Comigo",
+          "url": "https://www.youtube.com/watch?v=G5evk3QkbOA"
+        },
+        {
+          "titulo": "THE BATMAN: O QUE ESPERAR DE ROBERT PATTINSON EM 2021?!",
+          "url": "https://www.youtube.com/watch?v=I20V0_rFSwE"
+        },
+        {
+          "titulo": "VINGADORES ULTIMATO É O MAIOR FILME DE TODOS OS TEMPOS!!!",
+          "url": "https://www.youtube.com/watch?v=-fnPEsfHWVc"
+        }     
+      ]
+    },
+    {
+      "titulo": "Séries",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "em destaque: Território Nerd",
+        "url": "https://www.youtube.com/c/territorionerd/featured"
+      },
+      "videos": [
+        {
+          "titulo": "GAME OF THRONES 8x06 - Temporada 8 Episódio 6 (Análise do episódio AO VIVO)",
+          "url": "https://www.youtube.com/watch?v=dlSWaVVTBY4"
+        },
+        {
+          "titulo": "THE WITCHERVERSO! DERIVADO DA NETFLIX VAI MOSTRAR ORIGEM DE THE WITCHER #FiqueEmCasa #Comigo",
+          "url": "https://www.youtube.com/watch?v=LqrlfHXyjYQ"
+        },
+        {
+          "titulo": "As 5 MELHORES e as 5 PIORES Séries da NETFLIX",
+          "url": "https://www.youtube.com/watch?v=5ypvFvj84ik"
+        },
+        {
+          "titulo": "HELSTROM: TUDO SOBRE NOVA SÉRIE DA MARVEL #helstrom #SDCC",
+          "url": "https://www.youtube.com/watch?v=mKulsooJUMk"
+        }, 
+        {
+          "titulo": "8 SÉRIES QUE SE PARECEM MUITO!",
+          "url": "https://www.youtube.com/watch?v=y5v4M1Wt5Ys"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "em destaque: NerdPlayer (Toda segunda-feira) - Jovem Nerd",
+        "url": "https://www.youtube.com/playlist?list=PLD8B38450BA2052F7"
+      },
+      "videos": [
+        {
+          "titulo": "Assassin's Creed Valhalla - Fúria Viking",
+          "url": "https://www.youtube.com/watch?v=vkUUivAXmXo"
+        },
+        {
+          "titulo": "THE LAST OF US - PART 2: O que é cinema? (gameplay sem spoilers)",
+          "url": "https://www.youtube.com/watch?v=jWtdnrMetCY"
+        },
+        {
+          "titulo": "Call of Duty: Warzone - O squad mais ENTROSADO do Brasil",
+          "url": "https://www.youtube.com/watch?v=jGg-grNJHjY"
+        },
+        {
+          "titulo": "GHOST OF TSUSHIMA - O Início de Gameplay, no PS4 Pro | Legendado em Português PT-BR",
+          "url": "https://www.youtube.com/watch?v=5IfovBU1wcQ"
+        }
+      ]
+    }
+  ]
+}
