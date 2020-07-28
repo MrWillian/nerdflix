@@ -58,6 +58,7 @@ export const VideoCardList = styled.ul`
   }
 
   ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
     -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
     -webkit-border-radius: 8px;
     border-radius: 8px;
@@ -67,6 +68,7 @@ export const VideoCardList = styled.ul`
     -webkit-border-radius: 8px;
     border-radius: 8px;
     background:var(--tertiary); 
+    box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
     -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
   }
 
