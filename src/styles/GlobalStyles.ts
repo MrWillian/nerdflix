@@ -13,6 +13,12 @@ export default createGlobalStyle`
     background-color: #000;
   }
 
+  #root {
+    min-height: calc(100vh - var(--bodyPaddingTop));
+    display: flex;
+    flex-direction: column;
+  }
+
   a {
     color: inherit;
   }
