@@ -20,6 +20,15 @@ export const Container = styled.button`
     opacity: .5;
   }
 
+  &.ButtonError {
+    background-color: #F95B5C;
+    border-radius: 5px;
+    text-transform: uppercase;
+    color: #FFF;
+    font-weight: 100;
+    letter-spacing: 3px;
+  }
+
   @media (max-width: 800px) {
     &.ButtonLink {
       position: fixed;
