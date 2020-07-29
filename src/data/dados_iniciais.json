@@ -98,6 +98,32 @@
           "url": "https://www.youtube.com/watch?v=5IfovBU1wcQ"
         }
       ]
+    },
+    {
+      "titulo": "Ciência",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "em destaque: Ciência Todo Dia",
+        "url": "https://www.youtube.com/user/CienciaTodoDia"
+      },
+      "videos": [
+        {
+          "titulo": "O Gato de Schrödinger Explicado",
+          "url": "https://www.youtube.com/watch?v=pKEq8d_1pn4"
+        },
+        {
+          "titulo": "ONDE ESTÃO TODOS ALIENÍGENAS? Especial Nostalgia Ciência",
+          "url": "https://www.youtube.com/watch?v=YJsPmC8e7A4"
+        },
+        {
+          "titulo": "Computadores Quânticos Explicados",
+          "url": "https://www.youtube.com/watch?v=92eSz2X0AlU"
+        },
+        {
+          "titulo": "11 ILUSÕES DE ÓTICA QUE SOMENTE PESSOAS COM O QI ALTO CONSEGUEM RESOLVER",
+          "url": "https://www.youtube.com/watch?v=-sQQUZvueoU"
+        }
+      ]
     }
   ]
 }
