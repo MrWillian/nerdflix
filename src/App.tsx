@@ -35,6 +35,11 @@ function App() {
         category={dadosIniciais.categorias[2]}
       />
 
+      <Carousel
+        ignoreFirstVideo={false}
+        category={dadosIniciais.categorias[3]}
+      />
+
       <Footer />
 
     </div>
