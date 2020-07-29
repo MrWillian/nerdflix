@@ -13,7 +13,9 @@ function Menu() {
         <LogoImage src={Logo} alt="animeflix-logo" />
       </Link>
 
-      <Button />
+      <Button className="ButtonLink" route="/cadastro/video">
+        Novo vídeo
+      </Button>
 
     </Container>
   );
