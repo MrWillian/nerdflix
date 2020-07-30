@@ -1,11 +1,18 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 import { Container } from './styles';
 
-const Button: React.FC = () => {
+interface Props {
+  children: any;
+  route: string;
+  className?: string;
+}
+
+const Button: React.FC<Props> = ({children, route, className}) => {
   return (
-    <Container as="a" className="ButtonLink" href="/">
-      Novo vídeo
+    <Container as={Link} className={className} to={route}>
+      {children}
     </Container>
   );
 }
